@@ -15,7 +15,8 @@
 
 
 ## Lenguages and Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="100" value="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="![image](https://user-images.githubusercontent.com/90885563/150609924-a69c4ed7-c8c4-49f2-ad2b-c18ce3ffa81b.png)
+" align="left" height="48" width="48" ></a>
 
 
 
