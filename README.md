@@ -1,21 +1,7 @@
-<h1>**Hi My name is Cristian Alvias**  👋</h1>
+<h1>Hi My name is Cristian Alvias 👋</h1>
 
-<!--
-**Krohz/Krohz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused with proven results.
+<h2>Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused with proven results.</h2>
 
 🌱 Currently i'm into JS, HTML, CSS y English Language.
 👯 I want to work with other people and collaborate in many projects.
@@ -23,7 +9,8 @@ Welcome to my GitHub profile. I'm a student enginner software. I have always bee
 📚💻 Always ready to learn more
 💛🔍Currently study -> Js
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería de software. Siempre he sido trabajador y enfocado en objetivos con resultados comprobados.
+<h2>Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería de software. Siempre he sido trabajador y enfocado en objetivos con resultados comprobados.</h2>
+
 🌱 Actualmente estoy en JS, HTML, CSS e Idioma Inglés.
 👯 Me interesa y quiero colaborar con personas que deseen trabajar en equipo y en diversos proyectos.
 💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré.
