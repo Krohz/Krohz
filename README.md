@@ -26,7 +26,8 @@
 💛🔍Actualmente estudio -> Js.
 
 ## Lenguages y herramientas
-<img src="![image](https://user-images.githubusercontent.com/90885563/150609300-38a327f4-d71b-491f-9b9b-7d51dc8a5b9d.png)" width="200" height="200" />
+![image](https://user-images.githubusercontent.com/90885563/150609329-df5ac607-c953-43f6-985f-d5b9f3460831.png)https://developer.mozilla.org/en-US/docs/Web/HTML
+
 
 
 
