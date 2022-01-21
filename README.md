@@ -1,7 +1,7 @@
 # Hi My name is Cristian Alvias 👋
 
 
-<h2>Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused</h2>
+## Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused
 
 🌱 Currently i'm into JS, HTML, CSS y English Language.
 
@@ -13,7 +13,7 @@
 
 💛🔍Currently study -> Js.
 
-<h2>Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería de software. Siempre he sido trabajador y enfocado en mis objetivos</h2>
+## Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería de software. Siempre he sido trabajador y enfocado en mis objetivos
 
 🌱 Actualmente estoy en JS, HTML, CSS e Idioma Inglés.
 
