@@ -9,7 +9,7 @@
 📚💻 Always ready to learn more
 💛🔍Currently study -> Js
 
-<h2>Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería de software. Siempre he sido trabajador y enfocado en objetivos con resultados comprobados.</h2>
+<h2>Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería de software. Siempre he sido trabajador y enfocado en mis objetivos</h2>
 
 🌱 Actualmente estoy en JS, HTML, CSS e Idioma Inglés.
 👯 Me interesa y quiero colaborar con personas que deseen trabajar en equipo y en diversos proyectos.
