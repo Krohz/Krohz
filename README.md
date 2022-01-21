@@ -1,4 +1,4 @@
-**Hi My name is Cristian Alvias**  👋
+<h1>**Hi My name is Cristian Alvias**  👋</h1>
 
 <!--
 **Krohz/Krohz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
