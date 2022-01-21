@@ -13,17 +13,6 @@
 
 💛🔍Currently study -> Js.
 
-## Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería de software. Siempre he sido trabajador y enfocado en mis objetivos
-
-🌱 Actualmente estoy en JS, HTML, CSS e Idioma Inglés.
-
-👯 Me interesa y quiero colaborar con personas que deseen trabajar en equipo y en diversos proyectos.
-
-💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré. Me gusta colaborar, el trabajo en equipo y aprender en conjunto.
-
-📚💻Siempre dispuesto a aprender más.
-
-💛🔍Actualmente estudio -> Js.
 
 ## Lenguages y herramientas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="100">(https://developer.mozilla.org/en-US/docs/Web/HTML)
