@@ -21,6 +21,6 @@
 
 💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré. Me gusta colaborar, el trabajo en equipo y aprender en conjunto.
 
-Siempre dispuesto a aprender más.
+📚💻Siempre dispuesto a aprender más.
 
 💛🔍Actualmente estudio -> Js.
