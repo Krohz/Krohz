@@ -4,6 +4,8 @@
 <h2>Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused</h2>
 
 🌱 Currently i'm into JS, HTML, CSS y English Language.
+
+
 👯 I want to work with other people and collaborate in many projects.
 💬 Ask me whatever you want about web development and i will help you. I like to work in group with other people and learn together.
 📚💻 Always ready to learn more
