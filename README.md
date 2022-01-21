@@ -18,10 +18,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="70"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png" width="70"></a>
 <a href="https://sass-lang.com/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-128.png" width="70"></a>
-
 <a href="https://gulpjs.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" width="70"></a>
-<a href=""><img src="" width="70"></a>
-<a href=""><img src="" width="70"></a>
+<a href="https://www.java.com/en/"><img src="https://www.megaleechers.com/storage/Java-Runtime-Environment-Icon.png" width="70"></a>
+<a href="https://git-scm.com/"><img src="https://miro.medium.com/max/256/1*jHCCHizzA5H4VQ1ST1fA1A.png" width="70"></a>
 
 
 
