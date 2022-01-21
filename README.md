@@ -1,7 +1,7 @@
 <h1>Hi My name is Cristian Alvias 👋</h1>
 
 
-<h2>Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused with proven results.</h2>
+<h2>Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused</h2>
 
 🌱 Currently i'm into JS, HTML, CSS y English Language.
 👯 I want to work with other people and collaborate in many projects.
