@@ -25,4 +25,4 @@
 
 💛🔍Actualmente estudio -> Js.
 
-##
+## Lenguages y herramientas
