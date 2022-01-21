@@ -19,9 +19,7 @@
 
 👯 Me interesa y quiero colaborar con personas que deseen trabajar en equipo y en diversos proyectos.
 
-💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré.
-
-Me gusta colaborar, el trabajo en equipo y aprender en conjunto.
+💬 Pregúntame acerca de lo que necesites referente a HTML, CSS, JS y todo lo referente al maravilloso mundo del desarrollo web y con gusto te ayudaré. Me gusta colaborar, el trabajo en equipo y aprender en conjunto.
 
 Siempre dispuesto a aprender más.
 
