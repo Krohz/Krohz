@@ -3,7 +3,7 @@
 
 ## Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused
 
-🌱 Currently i'm into JS, HTML, CSS y English Language.
+🌱 Currently i'm into JS and English Language.
 
 👯 I want to work with other people and collaborate in many projects.
 
