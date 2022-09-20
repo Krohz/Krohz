@@ -3,7 +3,7 @@
 
 ## Welcome to my GitHub profile. I'm a student enginner software. I have always been hard working and goal's focused
 
-🌱 Currently i'm into JS and English Language.
+🌱 Currently i'm into Php and English Language.
 
 👯 I want to work with other people and collaborate in many projects.
 
@@ -11,7 +11,7 @@
 
 📚💻 Always ready to learn more.
 
-💛🔍Currently study -> Js.
+💛🔍Currently study -> Php.
 
 
 ## Lenguages and Tools:
