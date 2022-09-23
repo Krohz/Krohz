@@ -11,7 +11,7 @@
 
 📚💻 Always ready to learn more.
 
-💛🔍Currently study -> Php.
+💙🔍Currently study -> Php.
 
 
 ## Lenguages and Tools:
