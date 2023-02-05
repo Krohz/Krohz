@@ -9,7 +9,7 @@
 
 📚💻 Always ready to learn more.
 
-💙🔍Currently study -> TypeScript.
+🔍Currently study -> Laravel.
 
 
 ## Lenguages and Tools:
