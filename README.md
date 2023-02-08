@@ -9,7 +9,7 @@
 
 📚💻 Always ready to learn more.
 
-🔍Currently study -> Laravel.
+🔍Currently study -> Spring🍃.
 
 
 ## Lenguages and Tools:
