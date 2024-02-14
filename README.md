@@ -9,13 +9,11 @@
 
 📚💻 Always ready to learn more.
 
-🔍Currently study -> Spring🍃.
+🔍Currently study -> Git.
 
 
 ## Lenguages and Tools:
-<a href="https://www.javascript.com/"><img src="https://i.imgur.com/IgwKCEI.png" width="60"></a>
 <a href="https://www.java.com/en/"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="100"></a>
-<a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100"></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100"></a>
 
 
